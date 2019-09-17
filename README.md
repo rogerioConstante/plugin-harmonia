@@ -6,7 +6,7 @@ Este texto apresenta as instruções para a instalação e utilização da exten
 
 As extensões ou plugins são pequenos programas que adicionam uma funcionalidade específica ao MuseScore. Ao habilitar uma determinada extensão, uma nova opção será incluída ao menu ‘Extensões’ no MuseScore para realizar alguma ação na partitura ou em parte dela. 
 
-Algumas extensões vêm pré-instaladas com o MuseScore. Você pode encontrar muitas outras no site do programa. Os arquivos de código das extensões para o MuseScore 2.x possuem a terminação “.qml” (em versões anteriores, “.js”). 
+Algumas extensões vêm pré-instaladas com o MuseScore. Você pode encontrar muitas outras no site do programa. Os arquivos de código das extensões para o MuseScore 2 e 3 possuem a terminação “.qml”. 
 
 ### Instalação da extensão “Harmonia”
 
