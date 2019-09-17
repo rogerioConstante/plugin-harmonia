@@ -28,10 +28,14 @@ Para ser possível acessar uma extensão instalada a partir do menu ‘Extensõe
 ## 2. Utilização
 A extensão Harmonia executa diversas verificações de aspectos musicais relevantes para o estudo da harmonia.
 Antes de explicar o uso da extensão em detalhe, é importante ter ciência de que o procedimento inicial será o de escrever/realizar o exercício (ou parte dele) na partitura do MuseScore para, em seguida, abrir a extensão e escolher as verificações correspondentes.
-Assim, é presumido que você possua um conhecimento básico de escrita musical no MuseScore. Como sugestão, indicamos uma lista de tópicos para serem estudados e/ou revisados a partir do Manual Online do programa: 
+Assim, é presumido que você possua um conhecimento básico de escrita musical no MuseScore. Como sugestão, indicamos uma lista de tópicos para serem estudados e/ou revisados a partir do Manual Online do programa:
+
     • Criando uma nova partitura (https://musescore.org/pt-br/handbook/criando-uma-nova-partitura)
+    
     • Entrada de notas – básico (https://musescore.org/pt-br/handbook/entrada-de-notas)
+    
     • Vozes (https://musescore.org/pt-br/node/36056)
+    
 
 ### Tipos de escrita
 
