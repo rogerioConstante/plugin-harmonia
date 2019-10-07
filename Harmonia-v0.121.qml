@@ -2,6 +2,7 @@
 //  Harmonia v0.12                                                                         \\
 //                                                                                         \\
 //  Copyright (C)2018 Rogério Tavares Constante                                            \\
+//  Colaboradores: João Teixeira Araújo e Flávio Schiavoni                                 \\
 //                                                                                         \\
 //  Este programa é um software livre: você pode redistribuir e/ou  modificar              \\
 //  ele nos termos da GNU General Public License como publicada pela                       \\
