@@ -26,7 +26,7 @@ MuseScore {
       menuPath: "Plugins.Harmonia"
       description: "Harmonia.\nPlugin de auxílio na correção de encadeamentos harmônicos."
       version: "0.121ms3"
-			pluginType: "dialog"
+      pluginType: "dialog"
 
 // ----------------------------- janela de configuração -----------------------
 
